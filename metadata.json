@@ -1,0 +1,6 @@
+{
+  "name": "Eko Grandeur Hotel & Lounge",
+  "description": "Premium luxury accommodation, exquisite dining, and exclusive lounge services in the heart of Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
